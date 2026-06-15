@@ -1,0 +1,8 @@
+checkpoints/
+wandb/
+*.zip
+*.tar.gz
+sample_data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

@@ -6,3 +6,10 @@ sample_data/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+train.csv
+test.csv
+example_submission.csv
+icml_face_data.csv
+*.tar.gz
+*.zip
+.config/

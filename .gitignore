@@ -13,3 +13,10 @@ icml_face_data.csv
 *.tar.gz
 *.zip
 .config/
+train.csv
+test.csv
+example_submission.csv
+icml_face_data.csv
+*.tar.gz
+*.zip
+.config/
